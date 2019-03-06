@@ -6,11 +6,6 @@
         "when": "textInputFocus"
     },
     {
-        "key": "down",
-        "command": "-cursorDown",
-        "when": "textInputFocus"
-    },
-    {
         "key": "ctrl+shift+n",
         "command": "workbench.action.files.newUntitledFile"
     },
@@ -25,11 +20,6 @@
     {
         "key": "ctrl+p",
         "command": "cursorUp",
-        "when": "textInputFocus"
-    },
-    {
-        "key": "up",
-        "command": "-cursorUp",
         "when": "textInputFocus"
     },
     {
@@ -55,11 +45,6 @@
         "when": "textInputFocus"
     },
     {
-        "key": "right",
-        "command": "-cursorRight",
-        "when": "textInputFocus"
-    },
-    {
         "key": "ctrl+f",
         "command": "-workbench.action.terminal.focusFindWidget",
         "when": "terminalFindWidgetFocused"
@@ -72,11 +57,6 @@
     {
         "key": "ctrl+b",
         "command": "cursorLeft",
-        "when": "textInputFocus"
-    },
-    {
-        "key": "left",
-        "command": "-cursorLeft",
         "when": "textInputFocus"
     },
     {

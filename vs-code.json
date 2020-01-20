@@ -294,5 +294,9 @@
         "key": "ctrl+g",
         "command": "cancelSelection",
         "when": "editorHasSelection && textInputFocus"
+    },
+    {
+        "key": "ctrl+m",
+        "command": "-editor.action.toggleTabFocusMode"
     }
 ]
